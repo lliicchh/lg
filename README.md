@@ -1,2 +1,2 @@
 # lg
-hive practice 
+kafka practice 
